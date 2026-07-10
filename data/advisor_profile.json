@@ -1,0 +1,13 @@
+{
+  "professor": "Niranjan Balasubramanian",
+  "university": "Stony Brook University",
+  "program": "Computer Science PhD",
+  "research_area": "NLP, question answering, efficient NLP, information extraction",
+  "representative_paper": "Open Information Extraction work; 2013; ACL",
+  "paper_link": "https://scholar.google.com/scholar?q=Open+Information+Extraction+work",
+  "project_family": "language",
+  "focus": "NLP",
+  "value_add_artifact": "citation-faithful RAG and claim-level evaluation harness",
+  "next_step": "Replace seed claims with recent lab papers; add 50-100 expert-reviewable questions.",
+  "generated_for": "professor outreach value-add starter"
+}
